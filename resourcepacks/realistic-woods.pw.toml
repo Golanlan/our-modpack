@@ -1,0 +1,13 @@
+name = "Realistic Woods"
+filename = "Realistic Woods - 1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Tjpn35e/versions/bvNIJ6vm/Realistic%20Woods%20-%201.1.zip"
+hash-format = "sha512"
+hash = "926baa9db5415f7c141e9abbb03bd317df4007c8e95f2fef551c6efb40fb1b77ea90df630b83cc3b67042775324a260b77c5e4fa6e96c4cc7a008df02a55e06d"
+
+[update]
+[update.modrinth]
+mod-id = "4Tjpn35e"
+version = "bvNIJ6vm"

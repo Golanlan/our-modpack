@@ -1,0 +1,13 @@
+name = "Mizuno Connected Texture"
+filename = "Mizuno Connected Texture 2.7.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gXk3JSUR/versions/7vgHCgbj/Mizuno%20Connected%20Texture%202.7.zip"
+hash-format = "sha512"
+hash = "cc920aa84a8f5053c3a768283770e5cfc1128ccc8bb5842b87442d644967b24b23c0119bf7fbb5128e6f479895c231ad086041f4e90a845d1664063642526c40"
+
+[update]
+[update.modrinth]
+mod-id = "gXk3JSUR"
+version = "7vgHCgbj"

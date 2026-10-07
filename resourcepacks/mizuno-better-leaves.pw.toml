@@ -1,0 +1,13 @@
+name = "Mizuno Better Leaves"
+filename = "Mizuno Better Flowers Leaves 2.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aLVbJPY1/versions/IW6CrWNO/Mizuno%20Better%20Flowers%20Leaves%202.4.zip"
+hash-format = "sha512"
+hash = "837f1da95f80d1213a86e0371c808bbcef2bf79d0219aec8d43971b0c0fe27e0e1ac22412f6d1241734f2ad0a036233659edba4887321800fe87cd1414ba0472"
+
+[update]
+[update.modrinth]
+mod-id = "aLVbJPY1"
+version = "IW6CrWNO"

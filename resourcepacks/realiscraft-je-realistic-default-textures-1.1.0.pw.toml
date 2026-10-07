@@ -1,0 +1,13 @@
+name = "RealisCraft JE: Realistic Default Textures"
+filename = "§5RealisCraft §6[v1.41.0] §f[Demo].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wCD3KHxh/versions/LHA1Iqnr/%C2%A75RealisCraft%20%C2%A76%5Bv1.41.0%5D%20%C2%A7f%5BDemo%5D.zip"
+hash-format = "sha512"
+hash = "1d0c322c3f21a3f4004d7d94136876ff917f24d70254505115f95bfcde386c45d5680e0c8dea3addcb139d9359179475893e9345ba6b5f65b6aab437d212297f"
+
+[update]
+[update.modrinth]
+mod-id = "wCD3KHxh"
+version = "LHA1Iqnr"

@@ -1,0 +1,13 @@
+name = "Better GUI"
+filename = "Better Vanilla GUI (Without OptiGUI) - MC 26.1.2 - 4.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tp4jv4sv/versions/qaSlifxf/Better%20Vanilla%20GUI%20%28Without%20OptiGUI%29%20-%20MC%2026.1.2%20-%204.0.0.zip"
+hash-format = "sha512"
+hash = "e5d7ae788bf8bbf9d7fd2152a42a200fd80575620104b8633cea3ee51b6ce6dcdff0027363a8813479feda0fdd6c95c5a62eac34f95193effbe8fd1cdfba2f24"
+
+[update]
+[update.modrinth]
+mod-id = "Tp4jv4sv"
+version = "qaSlifxf"
