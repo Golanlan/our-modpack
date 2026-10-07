@@ -1,0 +1,13 @@
+name = "Macaw's Betters"
+filename = "mcwbetters-fabric-26.2-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45a1f3127c8e96ed3e6fe3e3ecdbc4176efbfed1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8625264
+project-id = 620582

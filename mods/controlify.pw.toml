@@ -1,0 +1,13 @@
+name = "Controlify (Controller support)"
+filename = "controlify-3.5.3+mc26.2-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52a9beb9f9782690f1170f2e72e1764fe3f82199"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8958799
+project-id = 835847

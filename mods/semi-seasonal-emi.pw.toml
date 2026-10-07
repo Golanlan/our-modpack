@@ -1,0 +1,13 @@
+name = "SEMI (Seasonal EMI)"
+filename = "semi-1.1.24+26.2+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ce127d7d5901e8f5b856c84791f572c9cbbd897"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8945654
+project-id = 1706958
