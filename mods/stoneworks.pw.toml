@@ -1,0 +1,13 @@
+name = "Stoneworks"
+filename = "Stoneworks-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/c9YWwjPp/Stoneworks-v26.2.0-mc26.2.x-Fabric.jar"
+hash-format = "sha512"
+hash = "64dc20c2243ce6b067cec7e8d098220693217ae8d12c50f7e4a122febff9f0b187e5996f6bfcc82d3f35842ccd7e6823bdb64a0b479b49c3607df06fdd395fff"
+
+[update]
+[update.modrinth]
+mod-id = "FzyTKtVF"
+version = "c9YWwjPp"

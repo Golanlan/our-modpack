@@ -1,0 +1,13 @@
+name = "Clear Skies"
+filename = "clearskies-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BlweNiFy/versions/5IiK6Q7S/clearskies-1.3.0.jar"
+hash-format = "sha512"
+hash = "d4304ee008a84530e6cadd95f570dcca68de27f6436b1d5baca8a1d5c5833b3fb7ae767dc21281265ee840de3dde07634c8ebf4396daf51b8fa4cf9313b74dd0"
+
+[update]
+[update.modrinth]
+mod-id = "BlweNiFy"
+version = "5IiK6Q7S"

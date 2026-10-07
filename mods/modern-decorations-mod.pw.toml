@@ -1,0 +1,13 @@
+name = "MDM (formerly Modern Decorations Mod)"
+filename = "mdm-26.9-fabric-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TmUXSYKk/versions/VEbkE6pg/mdm-26.9-fabric-26.2.jar"
+hash-format = "sha512"
+hash = "ab8ae6e4b8437873a8fbda5791a650c7fb2297364a7191cb00321afa7b9fd0329047c342ee899e6fdc19fa49841e6fd7e07817a2dd4d89c5b3c050f9d9955b0e"
+
+[update]
+[update.modrinth]
+mod-id = "TmUXSYKk"
+version = "VEbkE6pg"
