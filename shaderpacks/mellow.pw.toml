@@ -1,0 +1,13 @@
+name = "Mellow"
+filename = "Mellow v3.4.1a.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b96318ddd43ac9a37e6483f75d62f0f0f18f81e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8946321
+project-id = 1113130
