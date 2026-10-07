@@ -86,6 +86,11 @@ hash = "ec068e57849083197e8e79d835283d6a75aea4394b39405068dd184d9aa20e81"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d4e3197d4338a895f18c4537b0fecde55096908a2d02e080b155fa9e93c9bfde"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "b0a311bbc0434c29143d69bbc0a9906e85b913abe79d3a39907a385e0af4c6bd"
 metafile = true
